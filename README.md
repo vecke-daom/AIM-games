@@ -1,2 +1,2 @@
-# AIM-games-
+# AIM-games
 Converting a book to MBX
